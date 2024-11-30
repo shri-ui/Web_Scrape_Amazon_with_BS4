@@ -17,8 +17,8 @@ This project is a web scraper that extracts product details from an e-commerce w
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/product-scraper.git
-   cd product-scraper
+   git clone https://github.com/shri-ui/Web_Scrape_Amazon_with_BS4.git
+   cd Web_Scrape_Amazon_with_BS4
    ```
 
 2. Create a virtual environment:
