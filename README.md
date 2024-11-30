@@ -72,7 +72,7 @@ Product URL: https://www.example.com/product
 ## Output Images
 Here are some example images of the output:
 
-![Output Example 1](images/output.jpg)
+![Output](images/output.jpg)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
